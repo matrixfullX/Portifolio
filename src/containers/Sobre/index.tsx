@@ -1,4 +1,4 @@
-import Titulo from '../../components/TItulo'
+import Titulo from '../../components/Titulo'
 import Paragrado from '../../components/Paragrafo'
 import { GitHubSecao } from './styles'
 
