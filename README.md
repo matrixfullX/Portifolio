@@ -8,6 +8,9 @@ Projeto de Vizualização de Portifólio e Gráfico de resumo de projetos e tecn
 - CSS3
 - Typescript
 - Styled Components
+- Editor Config
+- EsLint
+- Prettier
 - Git e GitHub
 
 ## ✅ Funcionalidades
